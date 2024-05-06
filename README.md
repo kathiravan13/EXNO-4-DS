@@ -25,7 +25,7 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ```
-NAME :kathiravan.p
+NAME : kathiravan.p
 REG NO :212222230063
 ```
 ```python
